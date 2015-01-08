@@ -1,0 +1,6 @@
+.htaccess
+*.psd
+.DS_Store
+*.txt
+!README.txt
+*.log
